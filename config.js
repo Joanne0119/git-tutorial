@@ -1,2 +1,2 @@
 console.log('config.js');
-console.log('version22 update');
+console.log('version23 update');
